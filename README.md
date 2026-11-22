@@ -4,8 +4,6 @@
 
  <div align="center">
 
- <div align="center">
-
 # 👋 Hi, I'm Ghulam Mustafa
 
 ### BSIT Student | Aspiring Software Engineer
@@ -101,22 +99,11 @@ I enjoy learning new technologies, exploring different areas of software enginee
 
 ## 🤝 Connect With Me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Code%20With%20Mustafa-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/codewithmustafa)
-
-[![GitHub](https://img.shields.io/badge/GitHub-CodeByMustafaDev-181717?style=for-the-badge&logo=github)](https://github.com/CodeByMustafaDev)
-
-</div>
+- **LinkedIn:** [Code With Mustafa](https://www.linkedin.com/in/codewithmustafa)
+- **GitHub:** [CodeByMustafaDev](https://github.com/CodeByMustafaDev)
 
 ---
 
-<div align="center">
-
 ### 💡 My Developer Philosophy
 
-# Learn. Build. Improve. Repeat. 🚀
-
-*Always learning, always building, always improving.*
-
-</div>
+**Learn. Build. Improve. Repeat.** 🚀
