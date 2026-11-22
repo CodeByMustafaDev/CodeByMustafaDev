@@ -4,11 +4,13 @@
 
  <div align="center">
 
+ <div align="center">
+
 # 👋 Hi, I'm Ghulam Mustafa
 
 ### BSIT Student | Aspiring Software Engineer
 
-**Passionate about Mobile Development, Software Engineering & Building Real-World Solutions.**
+**Passionate about Mobile Development, AI-Powered Applications & Software Engineering.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/codewithmustafa)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/CodeByMustafaDev)
@@ -19,7 +21,7 @@
 
 ## 🚀 About Me
 
-I'm a Bachelor of Science in Information Technology (BSIT) student passionate about software development, mobile technologies, and building meaningful solutions to real-world problems.
+I'm a Bachelor of Science in Information Technology (BSIT) student passionate about software development, mobile technologies, artificial intelligence, and building meaningful solutions to real-world problems.
 
 I enjoy learning new technologies, exploring different areas of software engineering, and improving my skills through practical projects.
 
@@ -27,6 +29,7 @@ I enjoy learning new technologies, exploring different areas of software enginee
 
 - Become a skilled Software Engineer.
 - Build modern and user-friendly mobile applications.
+- Develop intelligent applications using AI integration.
 - Explore cross-platform development.
 - Develop strong programming and problem-solving skills.
 - Learn backend engineering and software architecture.
@@ -53,6 +56,14 @@ I enjoy learning new technologies, exploring different areas of software enginee
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### 🤖 AI & Intelligent Applications
+
+- AI Integration in Mobile Applications
+- Generative AI & LLM APIs
+- AI-Powered Features
+- Intelligent Chatbots & Assistants
+- Retrieval-Augmented Generation (RAG)
+
 ### 🛠️ Development Tools
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
@@ -71,6 +82,8 @@ I enjoy learning new technologies, exploring different areas of software enginee
 
 ## 🌱 Future Interests
 
+- AI Integration & Intelligent Applications
+- Generative AI and LLMs
 - iOS Development with Swift
 - Java Backend Development with Spring Boot
 - Advanced Backend Engineering
