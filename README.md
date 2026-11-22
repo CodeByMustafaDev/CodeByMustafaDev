@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" width="100%" height="180" alt="Ghulam Mustafa Banner"/>
+  <img src="./banner.png" width="100%" height="100" alt="Ghulam Mustafa Banner"/>
 </p>
 
  <div align="center">
