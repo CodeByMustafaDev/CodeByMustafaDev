@@ -1,15 +1,29 @@
 <p align="center">
-  <img src="./banner.png" width="75%" alt="Ghulam Mustafa Banner"/>
+  <img src="./banner.png" width="100%" height="180" alt="Ghulam Mustafa Banner"/>
 </p>
-# Hi, I'm Ghulam Mustafa 👋
+
+ <div align="center">
+
+# 👋 Hi, I'm Ghulam Mustafa
 
 ### BSIT Student | Aspiring Software Engineer
+
+**Passionate about Mobile Development, Software Engineering & Building Real-World Solutions.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/codewithmustafa)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/CodeByMustafaDev)
+
+</div>
+
+---
+
+## 🚀 About Me
 
 I'm a Bachelor of Science in Information Technology (BSIT) student passionate about software development, mobile technologies, and building meaningful solutions to real-world problems.
 
 I enjoy learning new technologies, exploring different areas of software engineering, and improving my skills through practical projects.
 
-### 🎯 My Goals
+## 🎯 My Goals
 
 - Become a skilled Software Engineer.
 - Build modern and user-friendly mobile applications.
@@ -18,31 +32,35 @@ I enjoy learning new technologies, exploring different areas of software enginee
 - Learn backend engineering and software architecture.
 - Build scalable and maintainable software solutions.
 
-### 💻 Technologies & Tools
+## 💻 Technologies & Tools
 
-**Programming Languages**
-- Kotlin
-- Java
+### 👨‍💻 Programming Languages
 
-**Mobile Development**
-- Android Development
-- Jetpack Compose
-- Kotlin Multiplatform (KMP)
-- Compose Multiplatform (CMP)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Backend & Database**
-- Ktor
-- Firebase
-- SQL
-- PostgreSQL
+### 📱 Mobile Development
 
-**Development Tools**
-- Android Studio
-- IntelliJ IDEA
-- Git
-- GitHub
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![CMP](https://img.shields.io/badge/Compose%20Multiplatform-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 
-### 📚 Currently Learning
+### ⚙️ Backend & Database
+
+![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=kotlin&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🛠️ Development Tools
+
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 📚 Currently Learning
 
 - Android Development
 - Kotlin & Jetpack Compose
@@ -51,7 +69,7 @@ I enjoy learning new technologies, exploring different areas of software enginee
 - Java Programming
 - Object-Oriented Programming (OOP)
 
-### 🚀 Future Interests
+## 🌱 Future Interests
 
 - iOS Development with Swift
 - Java Backend Development with Spring Boot
@@ -60,7 +78,7 @@ I enjoy learning new technologies, exploring different areas of software enginee
 - Cloud Computing
 - System Design
 
-### 🛠️ What I Believe In
+## 🧠 What I Believe In
 
 - Learn something new every day.
 - Build projects through practical experience.
@@ -68,13 +86,24 @@ I enjoy learning new technologies, exploring different areas of software enginee
 - Stay curious and explore new technologies.
 - Improve consistently as a Software Engineer.
 
-### 🤝 Connect With Me
+## 🤝 Connect With Me
 
-- **LinkedIn:** [Code With Mustafa](https://www.linkedin.com/in/codewithmustafa)
-- **GitHub:** [CodeByMustafaDev](https://github.com/CodeByMustafaDev)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Code%20With%20Mustafa-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/codewithmustafa)
+
+[![GitHub](https://img.shields.io/badge/GitHub-CodeByMustafaDev-181717?style=for-the-badge&logo=github)](https://github.com/CodeByMustafaDev)
+
+</div>
 
 ---
 
+<div align="center">
+
 ### 💡 My Developer Philosophy
 
-**Learn. Build. Improve. Repeat.** 🚀
+# Learn. Build. Improve. Repeat. 🚀
+
+*Always learning, always building, always improving.*
+
+</div>
