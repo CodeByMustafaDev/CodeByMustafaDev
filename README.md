@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Ghulam Mustafa Banner"/>
+</p>
 # Hi, I'm Ghulam Mustafa 👋
 
 ### BSIT Student | Aspiring Software Engineer
