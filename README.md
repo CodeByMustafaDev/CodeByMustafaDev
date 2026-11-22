@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Ghulam Mustafa Banner"/>
+  <img src="./banner.png" width="75%" alt="Ghulam Mustafa Banner"/>
 </p>
 # Hi, I'm Ghulam Mustafa 👋
 
